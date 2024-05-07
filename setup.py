@@ -32,5 +32,5 @@ setup(
     ],
     packages=[""],
     include_package_data=True,
-    install_requires=["transformers","nltk"]
+    install_requires=["transformers","nltk", "tensorflow", "tf_keras"]
 )
